@@ -1,0 +1,3 @@
+service: internalbenchmarking-api
+runtime: custom
+env: flex
